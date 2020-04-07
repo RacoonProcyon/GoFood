@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GoFood/static/css/main.79d1b22d.chunk.css",
+    "main.js": "/GoFood/static/js/main.b2077d0a.chunk.js",
+    "main.js.map": "/GoFood/static/js/main.b2077d0a.chunk.js.map",
+    "runtime-main.js": "/GoFood/static/js/runtime-main.b48b38ff.js",
+    "runtime-main.js.map": "/GoFood/static/js/runtime-main.b48b38ff.js.map",
+    "static/js/2.8d5ca72d.chunk.js": "/GoFood/static/js/2.8d5ca72d.chunk.js",
+    "static/js/2.8d5ca72d.chunk.js.map": "/GoFood/static/js/2.8d5ca72d.chunk.js.map",
+    "index.html": "/GoFood/index.html",
+    "precache-manifest.ce2db04173bbeba79fe23db5f8600bc2.js": "/GoFood/precache-manifest.ce2db04173bbeba79fe23db5f8600bc2.js",
+    "service-worker.js": "/GoFood/service-worker.js",
+    "static/css/main.79d1b22d.chunk.css.map": "/GoFood/static/css/main.79d1b22d.chunk.css.map",
+    "static/js/2.8d5ca72d.chunk.js.LICENSE.txt": "/GoFood/static/js/2.8d5ca72d.chunk.js.LICENSE.txt",
+    "static/media/332-3324201_gofood-logo-png-logo-go-food-vector.png": "/GoFood/static/media/332-3324201_gofood-logo-png-logo-go-food-vector.50e5b8df.png",
+    "static/media/Foods_(cropped) (1).jpg": "/GoFood/static/media/Foods_(cropped) (1).10bf459a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b48b38ff.js",
+    "static/js/2.8d5ca72d.chunk.js",
+    "static/css/main.79d1b22d.chunk.css",
+    "static/js/main.b2077d0a.chunk.js"
+  ]
+}
